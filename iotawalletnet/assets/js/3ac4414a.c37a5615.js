@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktestdocs=self.webpackChunktestdocs||[]).push([[2564],{9087:t=>{t.exports=JSON.parse('{"permalink":"/iotawalletnet/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

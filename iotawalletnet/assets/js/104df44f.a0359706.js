@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktestdocs=self.webpackChunktestdocs||[]).push([[3600],{2937:t=>{t.exports=JSON.parse('{"label":"hola","permalink":"/iotawalletnet/blog/tags/hola","allTagsPath":"/iotawalletnet/blog/tags","count":1}')}}]);
