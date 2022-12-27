@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktestdocs=self.webpackChunktestdocs||[]).push([[9121],{1974:e=>{e.exports=JSON.parse('{"permalink":"/iotawalletnet/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
